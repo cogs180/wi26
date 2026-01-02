@@ -1,0 +1,87 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole site, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing these this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: COGS 109
+tagline: Modeling and Data Analysis 📊 | Fall 2025
+description: How can we use models and data to understand and predict the world around us?
+author: Lucy Lai
+baseurl: '/fa25' # the subpath of your site, e.g. /blog
+url: 'https://cogs109.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - LICENSE
+  - README.md
+
+# Theme settings
+remote_theme: just-the-docs/just-the-docs@v0.10.1
+color_scheme: blue
+search_enabled: true
+heading_anchors: true
+permalink: pretty
+aux_links:
+  🖼️ Canvas:
+    - 'https://canvas.ucsd.edu/courses/68350'
+  🙋🏻 Piazza:
+    - 'https://piazza.com/class/mfbezngedbh3ng#'
+  💯 Gradescope:
+    - 'https://www.gradescope.com/courses/1123242'
+  🎙️ Podcast:
+    - 'https://podcast.ucsd.edu/watch/fa25/cogs109_b00'
+  💬 Feedback:
+    - 'https://docs.google.com/forms/d/e/1FAIpQLSeG3HjRZSgFPv9zDxVaMCdYW-iSwYmQHE7t2JbhLA-0upTsQA/viewform?usp=sharing&ouid=113612539407126073694'
+footer_content:
+
+# Collections for website data
+collections:
+  staffers:
+  modules:
+  schedules:
+  announcements:
+# Default layouts for each collection type
+defaults:
+  - scope:
+      path: ''
+      type: staffers
+    values:
+      layout: staffer
+      subpath: '/assets/images/'
+  - scope:
+      path: ''
+      type: modules
+    values:
+      layout: module
+  - scope:
+      path: ''
+      type: schedules
+    values:
+      layout: schedule
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
+
+plugins:
+  - jekyll-seo-tag
