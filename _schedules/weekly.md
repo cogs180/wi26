@@ -23,35 +23,35 @@ timeline:
 schedule:
   - name: Monday
     events:
-      - name: Lecture
-        start: 9:00 AM
-        end: 9:50 AM
-  - name: Tuesday
-  - name: Wednesday
-    events:
-      - name: Lecture
-        start: 9:00 AM
-        end: 9:50 AM
-      - name: Section
-        start: 2:00 PM
-        end: 2:50 PM
       - name: Office Hours
-        start: 3:00 PM
-        end: 4:00 PM
+        start: 2 PM
+        end: 3 PM
+      - name: Office Hours
+        start: 12 PM
+        end: 1 PM
+  - name: Tuesday
+    events:
+      - name: Office Hours
+        start: 2 PM
+        end: 3 PM
+      - name: Lecture
+        start: 3:30 PM
+        end: 4:50 AM
+  - name: Wednesday
   - name: Thursday
     events:
       - name: Office Hours
-        start: 4:30 PM
-        end: 5:30 PM
+        start: 2 PM
+        end: 3 PM
+      - name: Lecture
+        start: 3:30 PM
+        end: 4:50 AM
   - name: Friday
     events:
-      - name: Lecture
-        start: 9:00 AM
-        end: 9:50 AM
       - name: Section
-        start: 4:00 PM
-        end: 4:50 PM
+        start: 10:00 AM
+        end: 10:50 AM
       - name: Section
-        start: 5:00 PM
-        end: 5:50 PM
+        start: 11:00 AM
+        end: 11:50 AM
 ---
