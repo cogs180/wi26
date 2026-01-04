@@ -14,12 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: COGS 109
-tagline: Modeling and Data Analysis 📊 | Fall 2025
-description: How can we use models and data to understand and predict the world around us?
+title: COGS 180
+tagline: Decision Making | Winter 2026
+description: How do we make decisions? What drives our choices? And what can we do to make better decisions?
 author: Lucy Lai
-baseurl: '/fa25' # the subpath of your site, e.g. /blog
-url: 'https://cogs109.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/wi26 # the subpath of your site, e.g. /blog
+url: 'https://cogs180.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -39,13 +39,13 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   🖼️ Canvas:
-    - 'https://canvas.ucsd.edu/courses/68350'
+    - 'https://canvas.ucsd.edu/courses/71562/'
   🙋🏻 Piazza:
-    - 'https://piazza.com/class/mfbezngedbh3ng#'
+    - 'https://piazza.com/class/mjt02elnz262lp'
   💯 Gradescope:
-    - 'https://www.gradescope.com/courses/1123242'
+    - 'https://www.gradescope.com/courses/1206490'
   🎙️ Podcast:
-    - 'https://podcast.ucsd.edu/watch/fa25/cogs109_b00'
+    - 'https://podcast.ucsd.edu/watch/wi26/cogs180_b00'
   💬 Feedback:
     - 'https://docs.google.com/forms/d/e/1FAIpQLSeG3HjRZSgFPv9zDxVaMCdYW-iSwYmQHE7t2JbhLA-0upTsQA/viewform?usp=sharing&ouid=113612539407126073694'
 footer_content:
