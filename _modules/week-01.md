@@ -5,7 +5,6 @@ title: Week 1 — Course Intro & Cognitive Biases
 **Jan 6 (Tu)**
 : **LEC 1**{: .label .label-grey} [**Course intro and overview**]() 🎥  
     : [Slides]()
-: 📖 Readings: [ISLP Ch. 2.1](https://www.statlearning.com/)
 : **HW 1**{: .label .label-purple } released!
     : [Details]()
 : **Pre-course survey**{: .label .label-purple } released!
