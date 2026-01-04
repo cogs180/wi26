@@ -18,7 +18,7 @@ title: COGS 180
 tagline: Decision Making | Winter 2026
 description: How do we make decisions? What drives our choices? And what can we do to make better decisions?
 author: Lucy Lai
-baseurl: '/wi26 # the subpath of your site, e.g. /blog
+baseurl: '/wi26' # the subpath of your site, e.g. /blog
 url: 'https://cogs180.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude:
   - Gemfile
