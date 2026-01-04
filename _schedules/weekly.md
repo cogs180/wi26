@@ -36,7 +36,7 @@ schedule:
         end: 3 PM
       - name: Lecture
         start: 3:30 PM
-        end: 4:50 AM
+        end: 4:50 PM
   - name: Wednesday
   - name: Thursday
     events:
@@ -45,7 +45,7 @@ schedule:
         end: 3 PM
       - name: Lecture
         start: 3:30 PM
-        end: 4:50 AM
+        end: 4:50 PM
   - name: Friday
     events:
       - name: Section
