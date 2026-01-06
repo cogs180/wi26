@@ -1,11 +1,11 @@
 ---
 title: Week 9 — Making Decisions With Machines
 ---
-**Mar 1 (M)**
+**Mar 2 (M)**
 : **Quiz 8**{: .label .label-yellow } <font color="red">due @ 11:59pm</font>
     : [Submit]()
     
-**Mar 2 (Tu)**
+**Mar 3 (Tu)**
 : **LEC 17**{: .label .label-grey} [**Machine learning for decision making**]() 🎥  
     : [Slides]()
 
@@ -13,7 +13,7 @@ title: Week 9 — Making Decisions With Machines
 : **LEC 18**{: .label .label-grey} [**AI-assisted decision making**]() 🎥  
     : [Slides]( )
     
-**Feb 27 (F)**
+**Mar 6(F)**
 : **DISC**{: .label .label-green} 10a & 11a @ DIB 122
     : [Slides]( )
 : **HW 9**{: .label .label-red } <font color="red">due 11:59pm</font>
