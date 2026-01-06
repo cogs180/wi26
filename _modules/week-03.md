@@ -1,7 +1,8 @@
 ---
 title: Week 3 — Neuroscience
 ---
-**Jan 19 (Mon)**
+
+**Jan 19 (M)**
 : **Quiz 2**{: .label .label-yellow } <font color="red">due @ 11:59pm</font>
     : [Submit]()
 
