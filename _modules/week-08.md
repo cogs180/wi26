@@ -7,11 +7,11 @@ title: Week 8 — Designing for Decision Making
     : [Submit]()
     
 **Feb 20 (Tu)**
-: **LEC 15**{: .label .label-grey} [**Reinforcement learning**]() 🎥  
+: **LEC 15**{: .label .label-grey} [**Nudging and choice architecture**]() 🎥  
     : [Slides]()
 
 **Feb 26 (Th)**
-: **LEC 16**{: .label .label-grey} [**Dopamine and actor-critic models**]() 🎥  
+: **LEC 16**{: .label .label-grey} [**Human-centered decision environments**]() 🎥  
     : [Slides]( )
     
 **Feb 27 (F)**
