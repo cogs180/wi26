@@ -2,6 +2,10 @@
 title: Week 8 — Designing for Decision Making
 ---
 
+**Feb 19 (M)**
+: **Quiz 7**{: .label .label-yellow } <font color="red">due @ 11:59pm</font>
+    : [Submit]()
+    
 **Feb 20 (Tu)**
 : **LEC 15**{: .label .label-grey} [**Reinforcement learning**]() 🎥  
     : [Slides]()
