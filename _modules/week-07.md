@@ -2,6 +2,10 @@
 title: Week 7 — Disorders of decision making
 ---
 
+**Feb 16 (M)**
+: **Quiz 6**{: .label .label-yellow } <font color="red">due @ 11:59pm</font>
+    : [Submit]()
+    
 **Feb 17 (Tu)**
 : **LEC 13**{: .label .label-grey} [**Disorders of decision making**]() 🎥  
     : [Slides]()
