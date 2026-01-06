@@ -4,7 +4,8 @@ title: Week 3 — Neuroscience
 **Jan 20 (Tu)**
 : **LEC 5**{: .label .label-grey} [**Neural correlates of decisions**]() 🎥  
     : [Slides]()
-: **Quiz 2**{: .label .label-yellow } <font color="orange">in-class</font>
+: **Quiz 2**{: .label .label-yellow } <font color="red">due @ 11:59pm</font>
+    : [Submit]()
 
 **Jan 22 (Th)**
 : **LEC 6**{: .label .label-grey} [**Neuroeconomics**]() 🎥  
