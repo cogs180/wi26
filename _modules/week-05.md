@@ -1,7 +1,7 @@
-
 ---
 title: Week 5 — Reinforcement Learning and Dopamine
 ---
+
 **Feb 3 (Tu)**
 : **LEC 9**{: .label .label-grey} [**Reinforcement learning**]() 🎥  
     : [Slides]()
