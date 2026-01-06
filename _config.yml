@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: COGS 180
-tagline: Decision Making | Winter 2026
+tagline: Decision Making 🤔| Winter 2026
 description: How do we make decisions? What drives our choices? And what can we do to make better decisions?
 author: Lucy Lai
 baseurl: '/wi26' # the subpath of your site, e.g. /blog
