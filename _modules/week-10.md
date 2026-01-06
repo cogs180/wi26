@@ -1,5 +1,5 @@
 ---
-title: Week 10 — Final project presentations
+title: Week 10 — Final Project Presentations
 ---
 **Mar 9 (M)**
 : **Quiz 9**{: .label .label-yellow } <font color="red">due @ 11:59pm</font>
