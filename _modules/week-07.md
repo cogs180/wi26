@@ -3,7 +3,7 @@ title: Week 7 — Disorders of decision making
 ---
 
 **Feb 17 (Tu)**
-: **LEC 13**{: .label .label-grey} [**Disorders of decision makingg**]() 🎥  
+: **LEC 13**{: .label .label-grey} [**Disorders of decision making**]() 🎥  
     : [Slides]()
 
 **Feb 5 (Th)**
