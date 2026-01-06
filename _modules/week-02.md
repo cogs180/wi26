@@ -1,7 +1,8 @@
 ---
 title: Week 2 — Behavioral Economics
 ---
-**Jan 12 (Mon)**
+
+**Jan 12 (M)**
 : **Quiz 1**{: .label .label-yellow } <font color="red">due @ 11:59pm</font>
     : [Submit]()
     
