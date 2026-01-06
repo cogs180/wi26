@@ -1,6 +1,10 @@
 ---
 title: Week 3 — Neuroscience
 ---
+**Jan 19 (Mon)**
+: **Quiz 2**{: .label .label-yellow } <font color="red">due @ 11:59pm</font>
+    : [Submit]()
+
 **Jan 20 (Tu)**
 : **LEC 5**{: .label .label-grey} [**Neural correlates of decisions**]() 🎥  
     : [Slides]()
