@@ -1,7 +1,8 @@
 ---
 title: Week 4 — Decision Making Under Uncertainty
 ---
-**Jan 26 (Mon)**
+
+**Jan 26 (M)**
 : **Quiz 3**{: .label .label-yellow } <font color="red">due @ 11:59pm</font>
     : [Submit]()
 
