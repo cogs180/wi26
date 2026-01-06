@@ -1,22 +1,22 @@
 ---
-title: Week 4 — Neuroscience
+title: Week 6 — Neuroscience
 ---
 
-**Jan 26 (M)**
-: **Quiz 2**{: .label .label-yellow } <font color="red">due @ 11:59pm</font>
+**Feb 9 (M)**
+: **Quiz 5**{: .label .label-yellow } <font color="red">due @ 11:59pm</font>
     : [Submit]()
 
-**Jan 27 (Tu)**
+**Feb 10 (Tu)**
 : **LEC 5**{: .label .label-grey} [**Neural correlates of decisions**]() 🎥  
     : [Slides]()
 
-**Jan 29 (Th)**
+**Feb 12(Th)**
 : **LEC 6**{: .label .label-grey} [**Neuroeconomics**]() 🎥  
     : [Slides]( )
     
-**Jan 30 (F)**
+**Feb 13 (F)**
 : **DISC**{: .label .label-green} 10a & 11a @ DIB 122
     : [Slides]( )
-: **HW 4**{: .label .label-red } <font color="red">due 11:59pm</font>
+: **HW 6**{: .label .label-red } <font color="red">due 11:59pm</font>
     : [Submit]()
 
