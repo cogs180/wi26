@@ -1,5 +1,5 @@
 ---
-title: Week 8 — 
+title: Week 8 — Designing for Decision Making
 ---
 
 **Feb 20 (Tu)**
