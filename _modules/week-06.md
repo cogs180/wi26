@@ -7,11 +7,11 @@ title: Week 6 — Neuroscience
     : [Submit]()
 
 **Feb 10 (Tu)**
-: **LEC 5**{: .label .label-grey} [**Neural correlates of decisions**]() 🎥  
+: **LEC 11**{: .label .label-grey} [**Neural correlates of decisions**]() 🎥  
     : [Slides]()
 
 **Feb 12(Th)**
-: **LEC 6**{: .label .label-grey} [**Neuroeconomics**]() 🎥  
+: **LEC 12**{: .label .label-grey} [**Neuroeconomics**]() 🎥  
     : [Slides]( )
     
 **Feb 13 (F)**
