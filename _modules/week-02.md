@@ -1,12 +1,13 @@
 ---
 title: Week 2 — Behavioral Economics
 ---
-
+**Jan 12 (Mon)**
+: **Quiz 1**{: .label .label-yellow } <font color="red">due @ 11:59pm</font>
+    : [Submit]()
+    
 **Jan 13 (Tu)**
 : **LEC 3**{: .label .label-grey} [**Rational choice and expected utility theory**]() 🎥  
     : [Slides]()
-: **Quiz 1**{: .label .label-yellow } <font color="red">due @ 11:59pm</font>
-    : [Submit]()
 
 **Jan 15 (Th)**
 : **LEC 4**{: .label .label-grey} [**Behavioral economics and prospect theory**]() 🎥  
