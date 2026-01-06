@@ -1,5 +1,5 @@
 ---
-title: Week 7 — Disorders of decision making
+title: Week 7 — Disorders of Decision Making
 ---
 
 **Feb 16 (M)**
