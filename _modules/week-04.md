@@ -1,6 +1,10 @@
 ---
 title: Week 4 — Decision Making Under Uncertainty
 ---
+**Jan 26 (Mon)**
+: **Quiz 3**{: .label .label-yellow } <font color="red">due @ 11:59pm</font>
+    : [Submit]()
+
 **Jan 27 (Tu)**
 : **LEC 7**{: .label .label-grey} [**Noisy decision making**]() 🎥  
     : [Slides]()
