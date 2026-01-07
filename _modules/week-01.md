@@ -18,5 +18,5 @@ title: Week 1 — Course Intro & Cognitive Biases
 **Jan 9 (F)**
 : **Pre-course survey**{: .label .label-red } <font color="red">due 11:59pm</font>
     : [Submit](https://forms.gle/dmdrnn7VKtDNJJWT9)
-: **HW 1**{: .label .label-red } <font color="red">due 11:59pm</font>
+: **HW 1**{: .label .label-red } <font color="red">due 11:59pm</font> Gradescope code: YBR264
     : [Submit](https://www.gradescope.com/courses/1206490)
