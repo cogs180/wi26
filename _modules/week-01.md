@@ -4,7 +4,7 @@ title: Week 1 — Course Intro & Cognitive Biases
 
 **Jan 6 (Tu)**
 : **LEC 1**{: .label .label-grey} [**Course intro and overview**]() 🎥  
-    : [Slides](https://drive.google.com/file/d/1fbouOWEBATgZHRART3Pca8jqs7WIvQ4Z/view?usp=drive_link)
+    : [Slides](https://drive.google.com/file/d/1KQzHe59m0zAPhf6piY1bf4rnIIVwq51Q/view?usp=sharing)
 : **HW 1**{: .label .label-purple } released!
     : [Details](https://docs.google.com/document/d/1BIrlui8r59q6PGPCXzIURqYNPRh6VEteI50fl2kN5yI/edit?usp=sharing)
 : **Pre-course survey**{: .label .label-purple } released!
