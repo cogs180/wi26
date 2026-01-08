@@ -13,7 +13,7 @@ title: Week 1 — Course Intro & Cognitive Biases
 
 **Jan 8 (Th)**
 : **LEC 2**{: .label .label-grey} [**Cognitive biases and heuristics**]() 🎥  
-    : [Slides]( )
+    : [Slides](https://drive.google.com/file/d/1wQm4UuD6vceGwn93V_ikRtOD0QVlZuzI/view?usp=sharing)
     
 **Jan 9 (F)**
 : **Pre-course survey**{: .label .label-red } <font color="red">due 11:59pm</font>
