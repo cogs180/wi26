@@ -4,20 +4,20 @@ title: Week 2 — Behavioral Economics
 
 **Jan 12 (M)**
 : **Quiz 1**{: .label .label-yellow } <font color="red">due @ 11:59pm</font>
-    : [Submit]()
+    : [Submit](https://canvas.ucsd.edu/courses/71562/quizzes/238770)
 : **Quiz Reflection**{: .label .label-yellow } <font color="red">due @ 11:59pm</font>
-    : [Submit]()
+    : [Submit](https://forms.gle/X2tfckWH3yDtxjb39)
     
 **Jan 13 (Tu)**
 : **LEC 3**{: .label .label-grey} [**Rational choice and expected utility theory**]() 🎥  
-    : [Slides]()
+    : [Slides]
 
 **Jan 15 (Th)**
 : **LEC 4**{: .label .label-grey} [**Behavioral economics and prospect theory**]() 🎥  
-    : [Slides]( )
+    : [Slides]
     
 **Jan 16 (F)**
 : **DISC**{: .label .label-green} 10a & 11a @ DIB 122
-    : [Slides]( )
+    : [Slides]
 : **HW 2**{: .label .label-red } <font color="red">due 11:59pm</font>
-    : [Submit]()
+    : [Submit]
