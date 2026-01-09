@@ -16,12 +16,9 @@ title: Week 1 — Course Intro & Cognitive Biases
     : [Slides](https://drive.google.com/file/d/1wQm4UuD6vceGwn93V_ikRtOD0QVlZuzI/view?usp=sharing)
     
 **Jan 9 (F)**
-: **DISC**{: .label .label-green} 10a & 11a @ DIB 122
-    : [Slides](https://docs.google.com/presentation/d/1W8oUSeGYBc7qGkSH26rdmBLaBGL_ZkVBOcl3qi2B8Es/edit?usp=sharing)
-
+: **DISC**{: .label .label-green} 10a & 11a @ DIB 122 [Slides](https://docs.google.com/presentation/d/1W8oUSeGYBc7qGkSH26rdmBLaBGL_ZkVBOcl3qi2B8Es/edit?usp=sharing)
 * [10am activity slides](https://docs.google.com/presentation/d/1Vvzu__yu1sOjEHse-gVsiJArpk6s8ZHmXa2FSuLg_O8/edit?usp=sharing)
 * [11am activity slides](https://docs.google.com/presentation/d/1OwYvcICb8NXx5uDArXhh8sfLWB1UFPEcQINPLc-uOuQ/edit?usp=sharing)
-
 : **Pre-course survey**{: .label .label-red } <font color="red">due 11:59pm</font>
     : [Submit](https://forms.gle/dmdrnn7VKtDNJJWT9)
 : **HW 1**{: .label .label-red } <font color="red">due 11:59pm</font> Gradescope code: YBR264
