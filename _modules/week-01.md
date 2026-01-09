@@ -3,7 +3,7 @@ title: Week 1 — Course Intro & Cognitive Biases
 ---
 
 **Jan 6 (Tu)**
-: **LEC 1**{: .label .label-grey} [**Course intro and overview**]() 🎥  
+: **LEC 1**{: .label .label-grey} [**Course intro and overview**](https://podcast.ucsd.edu/watch/wi26/cogs180_a00/1) 🎥  
     : [Slides](https://drive.google.com/file/d/1KQzHe59m0zAPhf6piY1bf4rnIIVwq51Q/view?usp=sharing)
 : **HW 1**{: .label .label-purple } released!
     : [Details](https://docs.google.com/document/d/1BIrlui8r59q6PGPCXzIURqYNPRh6VEteI50fl2kN5yI/edit?usp=sharing)
@@ -12,7 +12,7 @@ title: Week 1 — Course Intro & Cognitive Biases
 : [**💡 Webclicker 101**](https://docs.google.com/document/d/1SedBxPlvlJkJ8NJwnbnwFijgt_QDrioI8De0SNpFYc0/edit?usp=sharing)
 
 **Jan 8 (Th)**
-: **LEC 2**{: .label .label-grey} [**Cognitive biases and heuristics**]() 🎥  
+: **LEC 2**{: .label .label-grey} [**Cognitive biases and heuristics**](https://podcast.ucsd.edu/watch/wi26/cogs180_a00/2) 🎥  
     : [Slides](https://drive.google.com/file/d/1wQm4UuD6vceGwn93V_ikRtOD0QVlZuzI/view?usp=sharing)
     
 **Jan 9 (F)**
