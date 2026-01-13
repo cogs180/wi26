@@ -12,7 +12,7 @@ title: Week 2 — Behavioral Economics
     
 **Jan 13 (Tu)**
 : **LEC 3**{: .label .label-grey} [**Rational choice and expected utility theory**]() 🎥  
-    : [Slides]
+    : [Slides](https://drive.google.com/file/d/1heCQBuxNpgT_RHau35zjT08NcZYed-cf/view?usp=drive_link)
 : 📚 Readings
 * [Normative theories of rational choice: expected utility](https://plato.stanford.edu/entries/rationality-normative-utility/)
 * [Econ graphs: expected utility](https://www.econgraphs.org/textbooks/intermediate_micro/exchange/uncertainty_and_risk/expected_utility)
