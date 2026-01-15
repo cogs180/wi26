@@ -19,7 +19,7 @@ title: Week 2 — Behavioral Economics
 
 **Jan 15 (Th)**
 : **LEC 4**{: .label .label-grey} [**Prospect theory**](https://podcast.ucsd.edu/watch/wi26/cogs180_a00/4) 🎥  
-    : [Slides](https://drive.google.com/file/d/1xurpl7TNKKyZ7SBZWVmWCPiT24quNkXc/view?usp=drive_link)
+    : [Slides](https://drive.google.com/file/d/11pecVQyg2F3d1YI6BzFjQZCW1VGBgWFX/view?usp=drive_link)
 : 📚 Readings
 * [Prospect theory: an analysis of decision under risk](https://drive.google.com/file/d/1jQl7SgjWcBpdn3V7PxZG9fTBLwNlpC5b/view?usp=sharing)
 * [Excerpt from _Thinking Fast and Slow_](https://drive.google.com/file/d/1DagDs3i8mOFaVb5M21USujO6WXhUNcNQ/view?usp=drive_link)
