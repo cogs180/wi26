@@ -24,6 +24,3 @@ title: Week 3 - Decision Making Under Constraints
     : [Slides]
 : **HW 3**{: .label .label-red } <font color="red">due 11:59pm</font>
     : [Submit]
-
-: **HW 2**{: .label .label-red } <font color="red">due 11:59pm</font>
-    : [Submit]
