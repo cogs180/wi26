@@ -28,4 +28,5 @@ title: Week 2 — Behavioral Economics
 : **DISC**{: .label .label-green} 10a & 11a @ DIB 122
     : [Slides]
 : **HW 2**{: .label .label-red } <font color="red">due 11:59pm</font>
-    : [Submit]
+    : [Submit](https://www.gradescope.com/courses/1206490)
+: **PROJECT**{: .label .label-blue } [Group-finding survey](https://forms.gle/vtmiTvGUjvKM3sh69)
