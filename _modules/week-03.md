@@ -6,7 +6,7 @@ title: Week 3 - Decision Making Under Constraints
     : [Submit](https://canvas.ucsd.edu/courses/71562/quizzes/241065)
 : **Quiz Reflection**{: .label .label-yellow } <font color="red">due @ 11:59pm</font>
     : [Submit](https://forms.gle/X2tfckWH3yDtxjb39)
-: **HW 3**{: .label .label-purple } 
+: **HW 3**{: .label .label-purple } will be posted by EOD Monday
     : [Details]
     
 **Jan 20 (Tu)**
