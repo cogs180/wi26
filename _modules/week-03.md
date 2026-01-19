@@ -10,14 +10,14 @@ title: Week 3 - Decision Making Under Constraints
     : [Details]
     
 **Jan 20 (Tu)**
-: **LEC 5**{: .label .label-grey} [**Bounded & resource rationality**]() 🎥  
+: **LEC 5**{: .label .label-grey} [**Decision making under constraints**]() 🎥  
     : [Slides]
 : 📚 Readings
 : **PROJECT**{: .label .label-blue } Project group-finding survey <font color="red">due @ 11:59pm</font>
     : [Submit](https://forms.gle/oQGhun9ZyDzi9sA46)
 
 **Jan 22 (Th)**
-: **LEC 6**{: .label .label-grey} [**Decision making under constraints**]() 🎥  
+: **LEC 6**{: .label .label-grey} [**Bounded & resource rationality**]() 🎥  
     : [Slides]
 : 📚 Readings
     
