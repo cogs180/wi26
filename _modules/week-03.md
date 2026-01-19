@@ -10,16 +10,19 @@ title: Week 3 - Decision Making Under Constraints
     : [Details]
     
 **Jan 20 (Tu)**
-: **LEC 5**{: .label .label-grey} [**Decision making under constraints**]() 🎥  
+: **LEC 5**{: .label .label-grey} [**Bounded rationality**]() 🎥  
     : [Slides]
 : 📚 Readings
+* [What is Bounded Rationality?](https://drive.google.com/file/d/1fzYmH7t2vZ1gapC4UfGpxl5AfxAIrolj/view?usp=drive_link)
 : **PROJECT**{: .label .label-blue } Project group-finding survey <font color="red">due @ 11:59pm</font>
     : [Submit](https://forms.gle/oQGhun9ZyDzi9sA46)
 
 **Jan 22 (Th)**
-: **LEC 6**{: .label .label-grey} [**Bounded & resource rationality**]() 🎥  
+: **LEC 6**{: .label .label-grey} [**Resource rationality**]() 🎥  
     : [Slides]
 : 📚 Readings
+* [Computational Rationality: Linking Mechanism and Behavior Through Bounded Utility Maximization](https://drive.google.com/file/d/1LDmkRMHzXE37ehSOP3He_cRxiNRghNB4/view?usp=drive_link)
+* [Resource-rational analysis: Understanding human cognition as the optimal use of limited computational resources](https://drive.google.com/file/d/1q40p3OPiuP27EOFifUlSQHzwHwgqAmeL/view?usp=drive_link)
     
 **Jan 23 (F)**
 : **DISC**{: .label .label-green} 10a & 11a @ DIB 122
