@@ -20,15 +20,3 @@ title: Week 4 — Decision Making Under Uncertainty
 : **HW 4**{: .label .label-red } <font color="red">due 11:59pm</font>
     : [Submit]()
 
-**Jan 19 (M)**
-: **Quiz 2**{: .label .label-yellow } <font color="red">due @ 11:59pm</font>
-    : [Submit]
-: **Quiz Reflection**{: .label .label-yellow } <font color="red">due @ 11:59pm</font>
-    : [Submit](https://forms.gle/X2tfckWH3yDtxjb39)
-: **HW 3**{: .label .label-purple } released!
-    : [Details]
-    
-**Jan 20 (Tu)**
-: **LEC 5**{: .label .label-grey} [**Bounded & resource rationality**]() 🎥  
-    : [Slides]
-: 📚 Readings
