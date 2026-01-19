@@ -14,6 +14,7 @@ title: Week 3 - Decision Making Under Constraints
     : [Slides]
 : 📚 Readings
 * [What is bounded rationality?](https://drive.google.com/file/d/1fzYmH7t2vZ1gapC4UfGpxl5AfxAIrolj/view?usp=drive_link)
+* [Precis of _Simple heuristics that make us smart_](https://drive.google.com/file/d/1jiFyFR47pl8SdxgnFGNeKNIlQNQoLwUT/view?usp=drive_link)
 : **PROJECT**{: .label .label-blue } Project group-finding survey <font color="red">due @ 11:59pm</font>
     : [Submit](https://forms.gle/oQGhun9ZyDzi9sA46)
 
