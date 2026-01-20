@@ -11,7 +11,7 @@ title: Week 3 - Decision Making Under Constraints
     
 **Jan 20 (Tu)**
 : **LEC 5**{: .label .label-grey} [**Bounded rationality**]() 🎥  
-    : [Slides]
+    : [Slides](https://drive.google.com/file/d/1rHffeJy3RhfC4QyzUYjR4qAUSegyMbdY/view?usp=drive_link)
 : 📚 Readings
 * [What is bounded rationality?](https://drive.google.com/file/d/1fzYmH7t2vZ1gapC4UfGpxl5AfxAIrolj/view?usp=drive_link)
 * [Precis of _Simple heuristics that make us smart_](https://drive.google.com/file/d/1jiFyFR47pl8SdxgnFGNeKNIlQNQoLwUT/view?usp=drive_link)
