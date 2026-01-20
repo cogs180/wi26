@@ -6,8 +6,8 @@ title: Week 3 - Decision Making Under Constraints
     : [Submit](https://canvas.ucsd.edu/courses/71562/quizzes/241065)
 : **Quiz Reflection**{: .label .label-yellow } <font color="red">due @ 11:59pm</font>
     : [Submit](https://forms.gle/X2tfckWH3yDtxjb39)
-: **HW 3**{: .label .label-purple } will be posted by EOD Monday
-    : [Details]
+: **HW 3**{: .label .label-purple } released! due _Saturday_ (+1 day)
+    : [Details](https://docs.google.com/document/d/1HebgcHl2b3h43lED6YsKbIImTTV0DSKq8idAKZYa2Ts/edit?usp=sharing)
     
 **Jan 20 (Tu)**
 : **LEC 5**{: .label .label-grey} [**Bounded rationality**]() 🎥  
@@ -28,5 +28,7 @@ title: Week 3 - Decision Making Under Constraints
 **Jan 23 (F)**
 : **DISC**{: .label .label-green} 10a & 11a @ DIB 122
     : [Slides]
-: **HW 3**{: .label .label-red } <font color="red">due 11:59pm</font>
-    : [Submit]
+    
+**Jan 24 (Sa)**
+: **HW 3**{: .label .label-red } <font color="red">due 11:59pm</font> (+1 extra day)
+    : [Submit](https://www.gradescope.com/courses/1206490)
