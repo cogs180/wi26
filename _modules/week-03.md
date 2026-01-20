@@ -15,8 +15,6 @@ title: Week 3 - Decision Making Under Constraints
 : 📚 Readings
 * [What is bounded rationality?](https://drive.google.com/file/d/1fzYmH7t2vZ1gapC4UfGpxl5AfxAIrolj/view?usp=drive_link)
 * [Precis of _Simple heuristics that make us smart_](https://drive.google.com/file/d/1jiFyFR47pl8SdxgnFGNeKNIlQNQoLwUT/view?usp=drive_link)
-: **PROJECT**{: .label .label-blue } Project group-finding survey <font color="red">due @ 11:59pm</font>
-    : [Submit](https://forms.gle/oQGhun9ZyDzi9sA46)
 
 **Jan 22 (Th)**
 : **LEC 6**{: .label .label-grey} [**Resource rationality**]() 🎥  
@@ -28,7 +26,10 @@ title: Week 3 - Decision Making Under Constraints
 **Jan 23 (F)**
 : **DISC**{: .label .label-green} 10a & 11a @ DIB 122
     : [Slides]
+: **PROJECT**{: .label .label-blue } Project group-finding survey <font color="red">due @ 11:59pm</font>
+    : [Submit](https://forms.gle/oQGhun9ZyDzi9sA46)
     
 **Jan 24 (Sa)**
 : **HW 3**{: .label .label-red } <font color="red">due 11:59pm</font> (+1 extra day)
     : [Submit](https://www.gradescope.com/courses/1206490)
+
