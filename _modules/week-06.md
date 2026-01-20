@@ -5,6 +5,8 @@ title: Week 6 — Neuroscience
 **Feb 9 (M)**
 : **Quiz 5**{: .label .label-yellow } <font color="red">due @ 11:59pm</font>
     : [Submit]()
+: **PROJECT**{: .label .label-yellow } Project Checkpoint 1 (Proposal) <font color="red">due @ 11:59pm</font>
+    : [Submit]()
 
 **Feb 10 (Tu)**
 : **LEC 11**{: .label .label-grey} [**Neural correlates of decisions**]() 🎥  
