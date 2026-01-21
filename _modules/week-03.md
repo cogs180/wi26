@@ -10,14 +10,14 @@ title: Week 3 - Decision Making Under Constraints
     : [Details](https://docs.google.com/document/d/1HebgcHl2b3h43lED6YsKbIImTTV0DSKq8idAKZYa2Ts/edit?usp=sharing)
     
 **Jan 20 (Tu)**
-: **LEC 5**{: .label .label-grey} [**Bounded rationality**]() 🎥  
+: **LEC 5**{: .label .label-grey} [**Bounded rationality**](https://podcast.ucsd.edu/watch/wi26/cogs180_a00/5) 🎥  
     : [Slides](https://drive.google.com/file/d/1rHffeJy3RhfC4QyzUYjR4qAUSegyMbdY/view?usp=drive_link)
 : 📚 Readings
 * [What is bounded rationality?](https://drive.google.com/file/d/1fzYmH7t2vZ1gapC4UfGpxl5AfxAIrolj/view?usp=drive_link)
 * [Precis of _Simple heuristics that make us smart_](https://drive.google.com/file/d/1jiFyFR47pl8SdxgnFGNeKNIlQNQoLwUT/view?usp=drive_link)
 
 **Jan 22 (Th)**
-: **LEC 6**{: .label .label-grey} [**Resource rationality**]() 🎥  
+: **LEC 6**{: .label .label-grey} [**Resource rationality**](https://podcast.ucsd.edu/watch/wi26/cogs180_a00/6) 🎥  
     : [Slides]
 : 📚 Readings
 * [Computational rationality: linking mechanism and behavior through bounded utility maximization](https://drive.google.com/file/d/1LDmkRMHzXE37ehSOP3He_cRxiNRghNB4/view?usp=drive_link)
