@@ -7,11 +7,11 @@ title: Week 4 — Decision Making Under Uncertainty
     : [Submit]()
 
 **Jan 27 (Tu)**
-: **LEC 7**{: .label .label-grey} [**Noisy decision making**]() 🎥  
+: **LEC 7**{: .label .label-grey} [**Noisy decision making**](https://podcast.ucsd.edu/watch/wi26/cogs180_a00/7) 🎥  
     : [Slides]()
 
 **Jan 28 (Th)**
-: **LEC 8**{: .label .label-grey} [**Bayesian decision theory**]() 🎥  
+: **LEC 8**{: .label .label-grey} [**Bayesian decision theory**](https://podcast.ucsd.edu/watch/wi26/cogs180_a00/8) 🎥  
     : [Slides]( )
     
 **Jan 30 (F)**
