@@ -7,11 +7,11 @@ title: Week 5 — Reinforcement Learning and Dopamine
     : [Submit]()
     
 **Feb 3 (Tu)**
-: **LEC 9**{: .label .label-grey} [**Reinforcement learning**]() 🎥  
+: **LEC 9**{: .label .label-grey} [**Reinforcement learning**](https://podcast.ucsd.edu/watch/wi26/cogs180_a00/9) 🎥  
     : [Slides]()
 
 **Feb 5 (Th)**
-: **LEC 10**{: .label .label-grey} [**Dopamine and actor-critic models**]() 🎥  
+: **LEC 10**{: .label .label-grey} [**Dopamine and actor-critic models**](https://podcast.ucsd.edu/watch/wi26/cogs180_a00/10) 🎥  
     : [Slides]( )
     
 **Feb 6 (F)**
