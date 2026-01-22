@@ -18,7 +18,7 @@ title: Week 3 - Decision Making Under Constraints
 
 **Jan 22 (Th)**
 : **LEC 6**{: .label .label-grey} [**Resource rationality**](https://podcast.ucsd.edu/watch/wi26/cogs180_a00/6) 🎥  
-    : [Slides]
+    : [Slides](https://drive.google.com/file/d/19bGHnBR3gcRkOfORU2uMxID8g1SHYyTy/view?usp=drive_link)
 : 📚 Readings
 * [Computational rationality: linking mechanism and behavior through bounded utility maximization](https://drive.google.com/file/d/1LDmkRMHzXE37ehSOP3He_cRxiNRghNB4/view?usp=drive_link)
 * [Resource-rational analysis: Understanding human cognition as the optimal use of limited computational resources](https://drive.google.com/file/d/1q40p3OPiuP27EOFifUlSQHzwHwgqAmeL/view?usp=drive_link)
