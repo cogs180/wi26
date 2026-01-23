@@ -4,7 +4,7 @@ title: Week 4 — Decision Making Under Uncertainty
 
 **Jan 26 (M)**
 : **Quiz 3**{: .label .label-yellow } <font color="red">due @ 11:59pm</font>
-    : [Submit]()
+    : [Submit](https://canvas.ucsd.edu/courses/71562/quizzes/241584)
 
 **Jan 27 (Tu)**
 : **LEC 7**{: .label .label-grey} [**Noisy decision making**](https://podcast.ucsd.edu/watch/wi26/cogs180_a00/7) 🎥  
