@@ -10,7 +10,7 @@ title: Week 4 — Decision Making Under Uncertainty
     
 **Jan 27 (Tu)**
 : **LEC 7**{: .label .label-grey} [**Noisy decision making**](https://podcast.ucsd.edu/watch/wi26/cogs180_a00/7) 🎥  
-  : [Slides]( )
+  : [Slides](https://drive.google.com/file/d/1-TCApB5zqE-TGBVJuc7R2uFjxGHyAi6B/view?usp=drive_link)
 : 📚 Readings
 * [A practical introduction to using the drift diffusion model of decision-making](https://drive.google.com/file/d/1RnpP6dZCvxsHghXEcXuQdZTOdQJtWkPJ/view?usp=sharing)
 * [Perceptual decision making: drift-diffusion model is equivalent to a Bayesian model](https://drive.google.com/file/d/1oSRUjS7oYcMFfjCdrrwYxQgXxVPsBx8j/view?usp=sharing)
