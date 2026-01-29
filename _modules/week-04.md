@@ -17,7 +17,7 @@ title: Week 4 — Decision Making Under Uncertainty
 
 **Jan 28 (Th)**
 : **LEC 8**{: .label .label-grey} [**Bayesian decision theory**](https://podcast.ucsd.edu/watch/wi26/cogs180_a00/8) 🎥  
-    : [Slides]( )
+    : [Slides](https://drive.google.com/file/d/1yXmn1c7NHx3Qg-8ukWSnQHdCIvVuDgD7/view?usp=drive_link)
 : 📚 Readings
 * [Bayesian decision models: A primer](https://drive.google.com/file/d/1GndoanpA5LxcCZQvDJHdBCFHFNFsYTwM/view?usp=sharing)
 * [Probabilistic brains: knowns and unknowns](https://drive.google.com/file/d/1yHGcBXyR0QgWK_QRgUDYc58u75f2Lcwd/view?usp=drive_link)
