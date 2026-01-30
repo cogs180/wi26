@@ -26,6 +26,8 @@ title: Week 4 — Decision Making Under Uncertainty
 **Jan 30 (F)**
 : **DISC**{: .label .label-green} 10a & 11a @ DIB 122
     : [Slides]( )
+
+**Jan 31 (Sa)**
 : **HW 4**{: .label .label-red } <font color="red">due 11:59pm</font>
     : [Submit](https://www.gradescope.com/courses/1206490)
 
