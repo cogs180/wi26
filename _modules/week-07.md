@@ -22,4 +22,4 @@ title: Week 7 — Disorders of Decision Making
 
 **Feb 21 (Sa)**
 : **HW 7**{: .label .label-red } <font color="red">due 11:59pm</font>
-    : [Submit]()
+    : [Submit](https://www.gradescope.com/courses/1206490)
