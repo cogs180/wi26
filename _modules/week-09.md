@@ -13,8 +13,10 @@ title: Week 9 — Making Decisions With Machines
 : **LEC 18**{: .label .label-grey} [**AI-assisted decision making**]() 🎥  
     : [Slides]( )
     
-**Mar 6(F)**
+**Mar 6 (F)**
 : **DISC**{: .label .label-green} 10a & 11a @ DIB 122
     : [Slides]( )
+
+**Mar 7 (Sa)**
 : **HW 9**{: .label .label-red } <font color="red">due 11:59pm</font>
-    : [Submit]()
+    : [Submit](https://www.gradescope.com/courses/1206490)
