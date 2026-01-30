@@ -15,7 +15,7 @@ title: Week 4 — Decision Making Under Uncertainty
 * [A practical introduction to using the drift diffusion model of decision-making](https://drive.google.com/file/d/1RnpP6dZCvxsHghXEcXuQdZTOdQJtWkPJ/view?usp=sharing)
 * [Perceptual decision making: drift-diffusion model is equivalent to a Bayesian model](https://drive.google.com/file/d/1oSRUjS7oYcMFfjCdrrwYxQgXxVPsBx8j/view?usp=sharing)
 
-**Jan 28 (Th)**
+**Jan 29 (Th)**
 : **LEC 8**{: .label .label-grey} [**Bayesian decision theory**](https://podcast.ucsd.edu/watch/wi26/cogs180_a00/8) 🎥  
     : [Slides](https://drive.google.com/file/d/1yXmn1c7NHx3Qg-8ukWSnQHdCIvVuDgD7/view?usp=drive_link)
 : 📚 Readings
