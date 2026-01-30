@@ -17,5 +17,7 @@ title: Week 5 — Reinforcement Learning and Dopamine
 **Feb 6 (F)**
 : **DISC**{: .label .label-green} 10a & 11a @ DIB 122
     : [Slides]( )
+
+**Feb 7 (Sa)**
 : **HW 5**{: .label .label-red } <font color="red">due 11:59pm</font>
     : [Submit](https://www.gradescope.com/courses/1206490)
