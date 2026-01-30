@@ -4,6 +4,8 @@ title: Week 9 — Making Decisions With Machines
 **Mar 2 (M)**
 : **Quiz 8**{: .label .label-yellow } <font color="red">due @ 11:59pm</font>
     : [Submit]()
+: **PROJECT**{: .label .label-yellow } Project Checkpoint 2 <font color="red">due @ 11:59pm</font>
+    : [Submit](https://www.gradescope.com/courses/1206490)   
     
 **Mar 3 (Tu)**
 : **LEC 17**{: .label .label-grey} [**Machine learning for decision making**]() 🎥  
