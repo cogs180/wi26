@@ -2,11 +2,11 @@
 title: Week 8 — Designing for Decision Making
 ---
 
-**Feb 19 (M)**
+**Feb 23 (M)**
 : **Quiz 7**{: .label .label-yellow } <font color="red">due @ 11:59pm</font>
-    : [Submit]()
+    : [Submit](https://canvas.ucsd.edu/courses/71562/quizzes/242166)
     
-**Feb 20 (Tu)**
+**Feb 24 (Tu)**
 : **LEC 15**{: .label .label-grey} [**Nudging and choice architecture**]() 🎥  
     : [Slides]()
 : **HW 8**{: .label .label-purple } 
