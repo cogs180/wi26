@@ -3,7 +3,7 @@ title: Week 9 — Making Decisions With Machines
 ---
 **Mar 2 (M)**
 : **Quiz 8**{: .label .label-yellow } <font color="red">due @ 11:59pm</font>
-    : [Submit]()
+    : [Submit](https://canvas.ucsd.edu/courses/71562/quizzes/242167)
 : **PROJECT**{: .label .label-yellow } Project Checkpoint 2 <font color="red">due @ 11:59pm</font>
     : [Submit](https://www.gradescope.com/courses/1206490)   
     
