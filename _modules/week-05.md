@@ -4,7 +4,7 @@ title: Week 5 — Reinforcement Learning and Dopamine
 
 **Feb 2 (M)**
 : **Quiz 4**{: .label .label-yellow } <font color="red">due @ 11:59pm</font>
-    : [Submit]()
+    : [Submit](https://canvas.ucsd.edu/courses/71562/quizzes/241598)
     
 **Feb 3 (Tu)**
 : **LEC 9**{: .label .label-grey} [**Reinforcement learning**](https://podcast.ucsd.edu/watch/wi26/cogs180_a00/9) 🎥  
