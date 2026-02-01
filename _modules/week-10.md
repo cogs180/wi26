@@ -3,7 +3,7 @@ title: Week 10 — Final Project Presentations
 ---
 **Mar 9 (M)**
 : **Quiz 9**{: .label .label-yellow } <font color="red">due @ 11:59pm</font>
-    : [Submit]()
+    : [Submit](https://canvas.ucsd.edu/courses/71562/quizzes/242168/edit)
     
 **Mar 10 (Tu)**
 : **LEC 19**{: .label .label-grey} Project expo 1 
