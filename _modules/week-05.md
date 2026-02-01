@@ -11,11 +11,16 @@ title: Week 5 — Reinforcement Learning and Dopamine
     : [Slides]()
 : **HW 5**{: .label .label-purple } 
     : [Details]
-
+: 📚 Readings
+* []()
+* []()
 **Feb 5 (Th)**
 : **LEC 10**{: .label .label-grey} [**Dopamine and actor-critic models**](https://podcast.ucsd.edu/watch/wi26/cogs180_a00/10) 🎥  
     : [Slides]( )
-    
+: 📚 Readings
+* []()
+* []()
+      
 **Feb 6 (F)**
 : **DISC**{: .label .label-green} 10a & 11a @ DIB 122
     : [Slides]( )
