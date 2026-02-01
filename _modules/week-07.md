@@ -4,7 +4,7 @@ title: Week 7 — Disorders of Decision Making
 
 **Feb 16 (M)**
 : **Quiz 6**{: .label .label-yellow } <font color="red">due @ 11:59pm</font>
-    : [Submit]()
+    : [Submit](https://canvas.ucsd.edu/courses/71562/quizzes/241829)
     
 **Feb 17 (Tu)**
 : **LEC 13**{: .label .label-grey} [**Disorders of decision making**]() 🎥  
