@@ -1,5 +1,5 @@
 ---
-title: Week 5 — Reinforcement Learning and Dopamine
+title: Week 5 — Reinforcement Learning, Dopamine, Goals & Habits
 ---
 
 **Feb 2 (M)**
@@ -7,20 +7,22 @@ title: Week 5 — Reinforcement Learning and Dopamine
     : [Submit](https://canvas.ucsd.edu/courses/71562/quizzes/241598)
     
 **Feb 3 (Tu)**
-: **LEC 9**{: .label .label-grey} [**Reinforcement learning**](https://podcast.ucsd.edu/watch/wi26/cogs180_a00/9) 🎥  
-    : [Slides]()
+: **LEC 9**{: .label .label-grey} [**Reinforcement learning and dopamine**](https://podcast.ucsd.edu/watch/wi26/cogs180_a00/9) 🎥  
+    : [Slides]
 : **HW 5**{: .label .label-purple } 
     : [Details]
 : 📚 Readings
-* []()
-* []()
+* [Reinforcement learning in the brain](https://drive.google.com/file/d/177f2EnlTmvmiKUaG09aPbYurf7xhoR4e/view?usp=drive_link) — 🌟 a must read!
+* [Dopamine reward prediction error coding](https://drive.google.com/file/d/1fPgfvv2mLhDGt-7CnTRvFFc0OdEfohlF/view?usp=drive_link)
+* [Neural basis of reinforcement learning and decision making](https://drive.google.com/file/d/1STqjiXdNqujj4aTaxAiSZKu67wrP693M/view?usp=drive_link)
+  
 **Feb 5 (Th)**
-: **LEC 10**{: .label .label-grey} [**Dopamine and actor-critic models**](https://podcast.ucsd.edu/watch/wi26/cogs180_a00/10) 🎥  
-    : [Slides]( )
+: **LEC 10**{: .label .label-grey} [**Goals and habits**](https://podcast.ucsd.edu/watch/wi26/cogs180_a00/10) 🎥  
+    : [Slides]
 : 📚 Readings
-* []()
-* []()
-      
+* [Goals and habits in the brain](https://drive.google.com/file/d/1f7U6CIG8jC9hhX3jqUxavmgZMHXVkLMJ/view?usp=drive_link)
+* [Model-based decision making and model-free learning](https://drive.google.com/file/d/1fPgfvv2mLhDGt-7CnTRvFFc0OdEfohlF/view?usp=drive_link)
+     
 **Feb 6 (F)**
 : **DISC**{: .label .label-green} 10a & 11a @ DIB 122
     : [Slides]( )
