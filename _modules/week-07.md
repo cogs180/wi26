@@ -11,8 +11,8 @@ title: Week 7 — Disorders of Decision Making
     : [Slides]()
 : **HW 7**{: .label .label-purple } 
     : [Details]
-:
-: Computational psychiatry as a bridge from neuroscience to clinical applications
+: 📚 Readings
+* [Computational psychiatry as a bridge from neuroscience to clinical applications](https://drive.google.com/file/d/1jnRlrgn1imU7TKJCaB8yCGod12KTCGkb/view?usp=drive_link)
 
 **Feb 19 (Th)**
 : **LEC 14**{: .label .label-grey} [**Computational psychiatry**]() 🎥  
