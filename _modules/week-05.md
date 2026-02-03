@@ -10,7 +10,7 @@ title: Week 5 — Reinforcement Learning, Dopamine, Goals & Habits
 : **LEC 9**{: .label .label-grey} [**Reinforcement learning and dopamine**](https://podcast.ucsd.edu/watch/wi26/cogs180_a00/9) 🎥  
     : [Slides]
 : **HW 5**{: .label .label-purple } 
-    : [Details]
+    : [Details](https://docs.google.com/document/d/1IEYQFvMWbWwd6TgNWZAfCH4hvqKwQ0oXEE0iugK7OoE/edit?usp=sharing)
 : 📚 Readings
 * [Reinforcement learning in the brain](https://drive.google.com/file/d/177f2EnlTmvmiKUaG09aPbYurf7xhoR4e/view?usp=drive_link) — 🌟 a must read!
 * [Dopamine reward prediction error coding](https://drive.google.com/file/d/1fPgfvv2mLhDGt-7CnTRvFFc0OdEfohlF/view?usp=drive_link)
