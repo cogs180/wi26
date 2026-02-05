@@ -18,7 +18,7 @@ title: Week 5 — Reinforcement Learning, Dopamine, Goals & Habits
   
 **Feb 5 (Th)**
 : **LEC 10**{: .label .label-grey} [**Goals and habits**](https://podcast.ucsd.edu/watch/wi26/cogs180_a00/10) 🎥  
-    : [Slides]
+    : [Slides](https://drive.google.com/file/d/1pgU6M5C2hPf3gfYrN3s820va-z0ZFfog/view?usp=drive_link)
 : 📚 Readings
 * [Goals and habits in the brain](https://drive.google.com/file/d/1f7U6CIG8jC9hhX3jqUxavmgZMHXVkLMJ/view?usp=drive_link)
 * [Model-based decision making and model-free learning](https://drive.google.com/file/d/1fPgfvv2mLhDGt-7CnTRvFFc0OdEfohlF/view?usp=drive_link)
