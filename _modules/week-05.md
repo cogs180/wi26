@@ -25,7 +25,8 @@ title: Week 5 — Reinforcement Learning, Dopamine, Goals & Habits
      
 **Feb 6 (F)**
 : **DISC**{: .label .label-green} 10a & 11a @ DIB 122
-    : [Slides]( )
+* [TD learning in addiction problem](https://drive.google.com/file/d/1Nr9KMvTZIynTz7VZhVZO3bcBMBHh2buS/view?usp=sharing)
+* [Group project tips](https://drive.google.com/file/d/1S8xtVdG46Uk8ERlMDD6UQVNtXk5ZgeUN/view?usp=sharing)
 
 **Feb 7 (Sa)**
 : **HW 5**{: .label .label-red } <font color="red">due 11:59pm</font>
