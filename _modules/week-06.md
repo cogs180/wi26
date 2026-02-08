@@ -20,8 +20,6 @@ title: Week 6 — Neuroscience
 **Feb 12(Th)**
 : **LEC 12**{: .label .label-grey} [**Neural correlates of decisions**]() 🎥  
     : [Slides]
-: **HW 6**{: .label .label-purple } 
-    : [Details]
 : 📚 Readings
 * [The neural basis of decision making](https://drive.google.com/file/d/1YlJHUxYS6PKOAin962Xlwon0jXTKNFgn/view?usp=drive_link)
 * [The neurobiology of decision: consensus and controversy](https://drive.google.com/file/d/1oWRFDrvf6C2zSn0r5z1wYUiSCixE6CFW/view?usp=drive_link)
