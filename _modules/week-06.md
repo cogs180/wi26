@@ -12,7 +12,7 @@ title: Week 6 — Neuroscience
 : **LEC 11**{: .label .label-grey} [**Neuroeconomics**]() 🎥  
     : [Slides]
 : **HW 6**{: .label .label-purple } 
-    : [Details]
+    : [Details](https://docs.google.com/document/d/1cuOMXfLRQU3g1cVc9SoS2ccxpjRblP1hvpy1KfRyprg/edit?usp=sharing)
 : 📚 Readings
 * [Neuroeconomics: the consilience of brain and decision](https://drive.google.com/file/d/1WeOWnoUyR9JIoK0jqjjglDk0aWUrYTcD/view?usp=drive_link)
 * [A framework for studying the neurobiology of value-based decision making](https://drive.google.com/file/d/1AHQD7mfvhxmyKGKPfZYbCZyB_5CuEmpK/view?usp=drive_link)
