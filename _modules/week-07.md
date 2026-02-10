@@ -7,7 +7,7 @@ title: Week 7 — Disorders of Decision Making
     : [Submit](https://canvas.ucsd.edu/courses/71562/quizzes/241829)
     
 **Feb 17 (Tu)**
-: **LEC 13**{: .label .label-grey} [**Disorders of decision making**]() 🎥  
+: **LEC 13**{: .label .label-grey} [**Disorders of decision making**](https://podcast.ucsd.edu/watch/wi26/cogs180_a00/13) 🎥  
     : [Slides]
 : **HW 7**{: .label .label-purple } 
     : [Details]
@@ -16,7 +16,7 @@ title: Week 7 — Disorders of Decision Making
 * [Decision making: from neuroscience to psychiatry](https://drive.google.com/file/d/1NbB84vZZtIX0q8tVSVrG8xaPpZdf9QUh/view?usp=drive_link)
 
 **Feb 19 (Th)**
-: **LEC 14**{: .label .label-grey} [**Computational psychiatry**]() 🎥  
+: **LEC 14**{: .label .label-grey} [**Computational psychiatry**](https://podcast.ucsd.edu/watch/wi26/cogs180_a00/14) 🎥  
     : [Slides]
 : 📚 Readings
 * [Computational psychiatry as a bridge from neuroscience to clinical applications](https://drive.google.com/file/d/1jnRlrgn1imU7TKJCaB8yCGod12KTCGkb/view?usp=drive_link)
