@@ -10,7 +10,7 @@ title: Week 6 — Neuroscience
 
 **Feb 10 (Tu)**
 : **LEC 11**{: .label .label-grey} [**Neuroeconomics**](https://podcast.ucsd.edu/watch/wi26/cogs180_a00/11) 🎥  
-    : [Slides](https://drive.google.com/file/d/19ap0nlOlKwjTO3MrzsKZ3sah7Cb5SQ8-/view?usp=drive_link)
+    : [Slides](https://drive.google.com/file/d/1wh_V0vHLyQE-TYLBRP1oX45kMfdnjPVk/view?usp=drive_link)
 : **HW 6**{: .label .label-purple } 
     : [Details](https://docs.google.com/document/d/1cuOMXfLRQU3g1cVc9SoS2ccxpjRblP1hvpy1KfRyprg/edit?usp=sharing)
 : 📚 Readings
