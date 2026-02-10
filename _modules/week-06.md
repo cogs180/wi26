@@ -9,8 +9,8 @@ title: Week 6 — Neuroscience
     : [Submit](https://www.gradescope.com/courses/1206490)
 
 **Feb 10 (Tu)**
-: **LEC 11**{: .label .label-grey} [**Neuroeconomics**]() 🎥  
-    : [Slides]
+: **LEC 11**{: .label .label-grey} [**Neuroeconomics**](https://podcast.ucsd.edu/watch/wi26/cogs180_a00/11) 🎥  
+    : [Slides]https://drive.google.com/file/d/19ap0nlOlKwjTO3MrzsKZ3sah7Cb5SQ8-/view?usp=drive_link
 : **HW 6**{: .label .label-purple } 
     : [Details](https://docs.google.com/document/d/1cuOMXfLRQU3g1cVc9SoS2ccxpjRblP1hvpy1KfRyprg/edit?usp=sharing)
 : 📚 Readings
@@ -18,7 +18,7 @@ title: Week 6 — Neuroscience
 * [A framework for studying the neurobiology of value-based decision making](https://drive.google.com/file/d/1AHQD7mfvhxmyKGKPfZYbCZyB_5CuEmpK/view?usp=drive_link)
 
 **Feb 12(Th)**
-: **LEC 12**{: .label .label-grey} [**Neural correlates of decisions**]() 🎥  
+: **LEC 12**{: .label .label-grey} [**Neural correlates of decisions**](https://podcast.ucsd.edu/watch/wi26/cogs180_a00/12) 🎥  
     : [Slides]
 : 📚 Readings
 * [The neural basis of decision making](https://drive.google.com/file/d/1YlJHUxYS6PKOAin962Xlwon0jXTKNFgn/view?usp=drive_link)
