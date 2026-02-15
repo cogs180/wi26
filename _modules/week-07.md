@@ -19,6 +19,7 @@ title: Week 7 — Disorders of Decision Making
 : **LEC 14**{: .label .label-grey} [**Computational psychiatry**](https://podcast.ucsd.edu/watch/wi26/cogs180_a00/14) 🎥  
     : [Slides]
 : 📚 Readings
+* [Computational psychiatry of ADHD: neural gain impairments across marrian levels of analysis](https://drive.google.com/file/d/1NLy3hsu44KPcbPUS_iTTu84RaQxndC2s/view?usp=drive_link)
 * [Computational psychiatry as a bridge from neuroscience to clinical applications](https://drive.google.com/file/d/1jnRlrgn1imU7TKJCaB8yCGod12KTCGkb/view?usp=drive_link)
 * [From reinforcement learning models to psychiatric and neurological disorders](https://drive.google.com/file/d/101utpRN43rqn_vLNGlm0CIVX54pkXjdu/view?usp=drive_link)
   
