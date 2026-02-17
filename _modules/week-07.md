@@ -8,7 +8,7 @@ title: Week 7 — Disorders of Decision Making
     
 **Feb 17 (Tu)**
 : **LEC 13**{: .label .label-grey} [**Disorders of decision making**](https://podcast.ucsd.edu/watch/wi26/cogs180_a00/13) 🎥  
-    : [Slides]
+    : [Slides](https://drive.google.com/file/d/1c6vggdzJtdQqK45BTuOhVPKkKZ4rRgF1/view?usp=drive_link)
 : **HW 7**{: .label .label-purple } 
     : [Details]
 : 📚 Readings
