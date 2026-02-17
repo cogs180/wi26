@@ -10,7 +10,7 @@ title: Week 7 — Disorders of Decision Making
 : **LEC 13**{: .label .label-grey} [**Disorders of decision making**](https://podcast.ucsd.edu/watch/wi26/cogs180_a00/13) 🎥  
     : [Slides](https://drive.google.com/file/d/1c6vggdzJtdQqK45BTuOhVPKkKZ4rRgF1/view?usp=drive_link)
 : **HW 7**{: .label .label-purple } 
-    : [Details]
+    : [Details](https://docs.google.com/document/d/1_awKtrJaSlPMqxHxJxRw8Me3f8VYvfRwEdPArozwwYQ/edit?usp=sharing)
 : 📚 Readings
 * [Decision making, impulse control and loss of willpower to resist drugs: a neurocognitive perspective](https://drive.google.com/file/d/17Sta2Hq7EwXXlgN9_tb-ehFqyvddn8T3/view?usp=drive_link)
 * [Decision making: from neuroscience to psychiatry](https://drive.google.com/file/d/1NbB84vZZtIX0q8tVSVrG8xaPpZdf9QUh/view?usp=drive_link)
