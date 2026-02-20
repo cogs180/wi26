@@ -8,7 +8,7 @@ title: Week 7 — Disorders of Decision Making
     
 **Feb 17 (Tu)**
 : **LEC 13**{: .label .label-grey} [**Disorders of decision making**](https://podcast.ucsd.edu/watch/wi26/cogs180_a00/13) 🎥  
-    : [Slides](https://drive.google.com/file/d/1O_bmzzi_MC2UQar4YN6UJd2U1y1L0q0U/view?usp=drive_link)
+    : [Slides](https://drive.google.com/file/d/1MESO7ofNcx6xnjkQXZS3tPDtCXP4dJmN/view?usp=drive_link)
 : **HW 7**{: .label .label-purple } 
     : [Details](https://docs.google.com/document/d/1_awKtrJaSlPMqxHxJxRw8Me3f8VYvfRwEdPArozwwYQ/edit?usp=sharing)
 : 📚 Readings
@@ -17,7 +17,7 @@ title: Week 7 — Disorders of Decision Making
 
 **Feb 19 (Th)**
 : **LEC 14**{: .label .label-grey} [**Computational psychiatry**](https://podcast.ucsd.edu/watch/wi26/cogs180_a00/14) 🎥  
-    : [Slides](https://drive.google.com/file/d/1XCIz2TwwA5SiOn95o6jf7fpskS8Ho30h/view?usp=drive_link)
+    : [Slides](https://drive.google.com/file/d/1yll6-pwjgUW4bYA5vpfxw8NaRqX3SdId/view?usp=drive_link)
 : 📚 Readings
 * [Computational psychiatry of ADHD: neural gain impairments across marrian levels of analysis](https://drive.google.com/file/d/1NLy3hsu44KPcbPUS_iTTu84RaQxndC2s/view?usp=drive_link)
 * [Computational psychiatry as a bridge from neuroscience to clinical applications](https://drive.google.com/file/d/1jnRlrgn1imU7TKJCaB8yCGod12KTCGkb/view?usp=drive_link)
