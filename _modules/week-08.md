@@ -16,7 +16,7 @@ title: Week 8 — Designing for Decision Making
 * [The effectiveness of nudging: A meta-analysis of choice architecture interventions across behavioral domains](https://drive.google.com/file/d/1PgjRcnXOz-XrHto1XH_tHZTgXzWxeI0Y/view?usp=sharing)
     
 **Feb 26 (Th)**
-: **LEC 16**{: .label .label-grey} [**Human-centered decision environments**](https://podcast.ucsd.edu/watch/wi26/cogs180_a00/16) 🎥  
+: **LEC 16**{: .label .label-grey} [**Designing decision environments**](https://podcast.ucsd.edu/watch/wi26/cogs180_a00/16) 🎥  
     : [Slides]
 : 📚 Readings
 * [Beyond nudges: Tools of a choice architecture](https://drive.google.com/file/d/1CkrEq9TkAJOSPtuYqUwXGJ8BP40F_JTd/view?usp=drive_link)
