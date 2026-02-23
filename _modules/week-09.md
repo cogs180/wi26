@@ -24,3 +24,7 @@ title: Week 9 — Making Decisions With Machines
 **Mar 7 (Sa)**
 : **HW 9**{: .label .label-red } <font color="red">due 11:59pm</font>
     : [Submit](https://www.gradescope.com/courses/1206490)
+
+**Mar 8 (Su)**
+: **PROJECT**{: .label .label-yellow } Project Checkpoint 2 <font color="red">due @ 11:59pm</font>
+    : [Submit](https://www.gradescope.com/courses/1206490)   
