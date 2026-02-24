@@ -5,11 +5,13 @@ title: Week 8 — Designing for Decision Making
 **Feb 23 (M)**
 : **Quiz 7**{: .label .label-yellow } <font color="red">due @ 11:59pm</font>
     : [Submit](https://canvas.ucsd.edu/courses/71562/quizzes/242166)
+: **Project Checkpoint 1.5**{: .label .label-purple} <font color="red">due @ 11:59pm</font>
+    : [Submit](https://docs.google.com/forms/d/e/1FAIpQLSfgLZMGJbGOgrnsx0-8IeAqb0-x8aDxWRSWVAym2F5r3RNfrA/viewform) 
     
 **Feb 24 (Tu)**
 : **LEC 15**{: .label .label-grey} [**Nudging and choice architecture**](https://podcast.ucsd.edu/watch/wi26/cogs180_a00/15) 🎥  
-    : [Slides]
-: **HW 8**{: .label .label-purple } 
+    : [Slides](https://drive.google.com/file/d/1zAIv2Q3Nj5HR4lebqfGmt5Q2E6iLUE9u/view?usp=drive_link)
+: **HW 8**{: .label .label-purple } released!
     : [Details](https://docs.google.com/document/d/1_tqOCqKDOeB6W9L7MV_l_fIvlR_pvpNpEbma_h1mfiU/edit?usp=sharing)
 : 📚 Readings
 * [Nudge (Intro & Chapter 1)](https://drive.google.com/file/d/1fYWrJmpXGTTiB1J8bk7t-tzpN2Bv5xg1/view?usp=drive_link)
