@@ -10,7 +10,7 @@ title: Week 8 — Designing for Decision Making
 : **LEC 15**{: .label .label-grey} [**Nudging and choice architecture**](https://podcast.ucsd.edu/watch/wi26/cogs180_a00/15) 🎥  
     : [Slides]
 : **HW 8**{: .label .label-purple } 
-    : [Details]
+    : [Details](https://docs.google.com/document/d/1_tqOCqKDOeB6W9L7MV_l_fIvlR_pvpNpEbma_h1mfiU/edit?usp=sharing)
 : 📚 Readings
 * [Nudge (Intro & Chapter 1)](https://drive.google.com/file/d/1fYWrJmpXGTTiB1J8bk7t-tzpN2Bv5xg1/view?usp=drive_link)
 * [The effectiveness of nudging: A meta-analysis of choice architecture interventions across behavioral domains](https://drive.google.com/file/d/1PgjRcnXOz-XrHto1XH_tHZTgXzWxeI0Y/view?usp=sharing)
