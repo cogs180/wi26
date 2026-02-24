@@ -5,7 +5,7 @@ title: Week 8 — Designing for Decision Making
 **Feb 23 (M)**
 : **Quiz 7**{: .label .label-yellow } <font color="red">due @ 11:59pm</font>
     : [Submit](https://canvas.ucsd.edu/courses/71562/quizzes/242166)
-: **Project Checkpoint 1.5**{: .label .label-purple} <font color="red">due @ 11:59pm</font>
+: **PROJECT**{: .label .label-purple} Project Checkpoint 1.5 <font color="red">due @ 11:59pm</font>
     : [Submit](https://docs.google.com/forms/d/e/1FAIpQLSfgLZMGJbGOgrnsx0-8IeAqb0-x8aDxWRSWVAym2F5r3RNfrA/viewform) 
     
 **Feb 24 (Tu)**
