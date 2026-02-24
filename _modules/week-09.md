@@ -4,6 +4,8 @@ title: Week 9 — Making Decisions With Machines
 **Mar 2 (M)**
 : **Quiz 8**{: .label .label-yellow } <font color="red">due @ 11:59pm</font>
     : [Submit](https://canvas.ucsd.edu/courses/71562/quizzes/242167)
+: **PROJECT**{: .label .label-purple} Project Progress <font color="red">due @ 11:59pm</font>
+    : [Submit](https://forms.gle/2wt8j65FLVhRaD8h6) 
     
 **Mar 3 (Tu)**
 : **LEC 17**{: .label .label-grey} [**Machine learning for decision making**](https://podcast.ucsd.edu/watch/wi26/cogs180_a00/17) 🎥  
@@ -26,5 +28,5 @@ title: Week 9 — Making Decisions With Machines
     : [Submit](https://www.gradescope.com/courses/1206490)
 
 **Mar 8 (Su)**
-: **PROJECT**{: .label .label-yellow } Project Checkpoint 2 <font color="red">due @ 11:59pm</font>
-    : [Submit](https://www.gradescope.com/courses/1206490)   
+: **PROJECT**{: .label .label-purple } Project Checkpoint 2 <font color="red">due @ 11:59pm</font>
+    : [Submit](https://forms.gle/RvjT4wk83KamRsPH6)   
