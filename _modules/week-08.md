@@ -19,7 +19,7 @@ title: Week 8 — Designing for Decision Making
     
 **Feb 26 (Th)**
 : **LEC 16**{: .label .label-grey} [**Designing decision environments**](https://podcast.ucsd.edu/watch/wi26/cogs180_a00/16) 🎥  
-    : [Slides]
+    : [Slides](https://drive.google.com/file/d/1BkwFrtOKLxGslWCOegn7pBvjKwZIcAb0/view?usp=drive_link)
 : 📚 Readings
 * [Beyond nudges: Tools of a choice architecture](https://drive.google.com/file/d/1CkrEq9TkAJOSPtuYqUwXGJ8BP40F_JTd/view?usp=drive_link)
 * [Decision making with visualizations: a cognitive framework across disciplines](https://drive.google.com/file/d/1Yed_UgLNAcefOdVuVym-DMmiPDBf5met/view?usp=drive_link)
