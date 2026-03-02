@@ -6,7 +6,7 @@ title: Week 9 — Making Decisions With Machines
     : [Submit](https://canvas.ucsd.edu/courses/71562/quizzes/242167)
 : **PROJECT**{: .label .label-purple} Project Progress <font color="red">due @ 11:59pm</font>
     : [Submit](https://forms.gle/2wt8j65FLVhRaD8h6) 
-: **SET EVALS**{: .label .label-green} due Saturday, March 14, @ 8am. SET evaluations will earn everyone **1pt** if >80% of the class completes them!
+: **SET EVALS**{: .label .label-green} due Saturday, March 14 @ 8am. SET evaluations will earn everyone **1pt** if >80% of the class completes them!
     : [Submit](https://academicaffairs.ucsd.edu/Modules/Evals)
     
 **Mar 3 (Tu)**
