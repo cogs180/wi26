@@ -23,10 +23,10 @@ title: Week 9 — Making Decisions With Machines
 : **LEC 18**{: .label .label-grey} [**Making decisions in real life**](https://podcast.ucsd.edu/watch/wi26/cogs180_a00/18) 🎥  
     : [Slides]
 : 📚 Decision Making Tools
-: [80,000 Hours Career Decision Tool](https://80000hours.org/career-decision/)
-: [Clearer Thinking: Decision Advisor](https://programs.clearerthinking.org/decisionmaker.html)
-: [Clearer Thinking: When to stop exploring](https://programs.clearerthinking.org/when_to_stop_exploring.html)
-: [AI-Assisted Decision Calculator](https://www.tc.columbia.edu/dnl/decision-making-calculator/)
+: * [80,000 Hours Career Decision Tool](https://80000hours.org/career-decision/)
+: * [Clearer Thinking: Decision Advisor](https://programs.clearerthinking.org/decisionmaker.html)
+: * [Clearer Thinking: When to stop exploring](https://programs.clearerthinking.org/when_to_stop_exploring.html)
+: * [AI-Assisted Decision Calculator](https://www.tc.columbia.edu/dnl/decision-making-calculator/)
     
 **Mar 6 (F)**
 : **DISC**{: .label .label-green} 10a & 11a @ DIB 122
