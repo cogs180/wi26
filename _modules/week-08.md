@@ -26,7 +26,6 @@ title: Week 8 — Designing for Decision Making
       
 **Feb 27 (F)**
 : **DISC**{: .label .label-green} 10a & 11a @ DIB 122
-    : [Slides]
 
 **Feb 28 (Sa)**
 : **HW 8**{: .label .label-red } <font color="red">due 11:59pm</font>
