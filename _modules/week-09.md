@@ -11,7 +11,7 @@ title: Week 9 — Making Decisions With Machines
     
 **Mar 3 (Tu)**
 : **LEC 17**{: .label .label-grey} [**Making decisions with AI**](https://podcast.ucsd.edu/watch/wi26/cogs180_a00/17) 🎥  
-    : [Slides]
+    : [Slides](https://drive.google.com/file/d/1DcQ6OlH_NM4xzHgccrSHUvcx5Tz6Snup/view?usp=drive_link)
 : **HW 9**{: .label .label-purple} <font color="red">NO HW 9! The points will be re-distributed to Project Checkpoint 2—so please focus on your course projects this week!</font>
 : 📚 Readings
 : * [Algorithmic Decision Making and the Cost of Fairness](https://drive.google.com/file/d/1X44Lcxdo8GTnHll46S0iRVSQG0mb7tOE/view?usp=drive_link)
