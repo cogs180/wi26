@@ -21,7 +21,7 @@ title: Week 9 — Making Decisions With Machines
     
 **Mar 5 (Th)**
 : **LEC 18**{: .label .label-grey} [**Making decisions in real life**](https://podcast.ucsd.edu/watch/wi26/cogs180_a00/18) 🎥  
-    : [Slides](https://drive.google.com/file/d/1DcQ6OlH_NM4xzHgccrSHUvcx5Tz6Snup/view?usp=drive_link)
+    : [Slides](https://drive.google.com/file/d/1SiFB2a9zYF7Z40Qax7kEFYE6IhlQRl46/view?usp=drive_link)
 : 📚 Decision Making Tools
 : * [80,000 Hours Career Decision Tool](https://80000hours.org/career-decision/)
 : * [Clearer Thinking: Decision Advisor](https://programs.clearerthinking.org/decisionmaker.html)
