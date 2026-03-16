@@ -24,6 +24,8 @@ title: Week 10 — Final Project Presentations
 : **PROJECT**{: .label .label-red } <font color="red">Final project oral presentations</font> with Prof. Lai. Please [book a presentation date and time](https://calendar.app.google/vstdREKTnf8QGJZC6). No need to submit anything, grading will be done during the presentation.
 
 **Mar 16 (M)**
-: **POST-COURSE REFLECTION**{: .label .label-red } <font color="red">due 11:59pm</font>, worth **1pt**
-    : [Submit]
 : **PROJECT**{: .label .label-red } Written papers <font color="red">due 11:59pm</font> No need to submit anything, we will begin grading in your linked document from Checkpoint 2 immediately after.
+
+**Mar 20 (F)**
+: **POST-COURSE REFLECTION**{: .label .label-red } <font color="red">due 11:59pm</font>, worth **1pt**
+    : [Submit](https://forms.gle/5vk44ehq4aM7e66z9)
